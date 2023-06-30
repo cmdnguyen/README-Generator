@@ -4,7 +4,6 @@ const questions = [
         message: "What is your name?",
         name: "name"
     },
-    
     // {
     //     type: "input",
     //     message: "What is your email?",
@@ -33,13 +32,13 @@ const questions = [
     // },
     // {
     //     type: "input",
-    //     message: "Please describe the usage of your project.",
+    //     message: "Please describe how to use your project.",
     //     name: "usage",
     // },
     {
         type: "list",
         message: "What kind of license should your project have?",
-        choices: ["MIT", "None",],
+        choices: ["Apache","MIT", "Mozilla Public License", "None",],
         name: "license",
     },
     // {
