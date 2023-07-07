@@ -32,6 +32,8 @@ Once everything is installed, users will put `node index.js` command in the term
 This video linked below will show you how it should work.
 
  [Video showing on how to use the README Generator](/Assets/Untitled_%20Jul%207,%202023%2011_28%20AM.webm)
+ [Untitled_ Jul 7, 2023 11_28 AM.webm](https://github.com/cmdnguyen/README-Generator/assets/131038401/331d1c76-7745-4ff1-aa79-8ddeadea8572)
+
 
  Once the README is generated, the final product should look like this:
 
