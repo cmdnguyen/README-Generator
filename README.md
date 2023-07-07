@@ -1,4 +1,5 @@
 # README Generator
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
 
@@ -27,13 +28,18 @@ In VSCode, users will need to be in the Main directory. The `index.js` file is i
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+Once everything is installed, users will put `node index.js` command in the terminal. Make sure you are in the `Main` directory of the `README-Generator` or the program will not run. 
+This video linked below will show you how it should work.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+ [Video showing on how to use the README Generator]
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+ Once the README is generated, the final product should look like this:
+
+ ![Generated README]
+
+ And it should also look like this in preview:
+
+![Preview Generated README]
 
 ## Credits
 
