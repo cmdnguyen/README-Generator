@@ -31,10 +31,7 @@ In VSCode, users will need to be in the Main directory. The `index.js` file is i
 Once everything is installed, users will put `node index.js` command in the terminal. Make sure you are in the `Main` directory of the `README-Generator` or the program will not run. 
 This video linked below will show you how it should work.
 
- [Video showing on how to use the README Generator](/Assets/Untitled_%20Jul%207,%202023%2011_28%20AM.webm)
-https://github.com/cmdnguyen/README-Generator/assets/131038401/ebcd38a2-4e20-4e6b-b454-70ce5807d00f
-
-
+[Untitled_ Jul 7, 2023 11_28 AM.webm](https://github.com/cmdnguyen/README-Generator/assets/131038401/e32daf84-c961-4ff6-b2cf-611cfb04db6d)
 
 
  Once the README is generated, the final product should look like this:
