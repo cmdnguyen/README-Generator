@@ -20,11 +20,16 @@ Once cloned, users will need [VSCode](https://code.visualstudio.com/download) an
 	code .
 
 Users will also need [NodeJS](https://nodejs.org/en) installed. I used the LTS version.
-
 In VSCode, users will need to be in the Main directory. The `index.js` file is in there and is needed to run the generator. You can right click the main folder and `Open in Intergrated Terminal` or input the following command in the terminal.
 
 	cd Main
 
+Users will need to initizalize npm and install inquirer in the `Main` directory. Input the following commands in the terminal:
+
+	npm init -y
+	npm install inquirer
+
+You should have a `package.json` file in the `Main` directory. When you go in the `package.json` file, you should see "inquirer" in "dependencies."
 
 ## Usage
 
