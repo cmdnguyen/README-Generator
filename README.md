@@ -4,8 +4,11 @@
 ## Description
 
 This is a quick generator for README markdown files using NodeJS. Users will need inquirer in NodeJS to run the prompts. 
+
 It will ask for name, email and GitHub usernames. The prompts will also ask for information about the project like title, description, installation, usage, license, contribution and tests instructions. 
+
 Once completed, the generator will take the answers and generate them into a professional README. This speeds up the process of creating markdown files instead of creating from scratch.
+
 Using Inquirer in NodeJS was confusing at first and the documentation for it was overwhelming at first glance. Once I identified what I wanted to do and knew how to do it, putting this generator together became easier.
 
 ## Installation
@@ -20,6 +23,7 @@ Once cloned, users will need [VSCode](https://code.visualstudio.com/download) an
 	code .
 
 Users will also need [NodeJS](https://nodejs.org/en) installed. I used the LTS version.
+
 In VSCode, users will need to be in the Main directory. The `index.js` file is in there and is needed to run the generator. You can right click the main folder and `Open in Intergrated Terminal` or input the following command in the terminal.
 
 	cd Main
@@ -34,7 +38,8 @@ You should have a `package.json` file in the `Main` directory. When you go in th
 ## Usage
 
 Once everything is installed, users will put `node index.js` command in the terminal. Make sure you are in the `Main` directory of the `README-Generator` or the program will not run. 
-This video linked below will show you how it should work.
+
+This video below will show you how it should work.
 
 [Untitled_ Jul 7, 2023 11_28 AM.webm](https://github.com/cmdnguyen/README-Generator/assets/131038401/e32daf84-c961-4ff6-b2cf-611cfb04db6d)
 
