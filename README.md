@@ -11,6 +11,13 @@ Once completed, the generator will take the answers and generate them into a pro
 
 Using Inquirer in NodeJS was confusing at first and the documentation for it was overwhelming at first glance. Once I identified what I wanted to do and knew how to do it, putting this generator together became easier.
 
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
+
 ## Installation
 
 To get started, users will have to use a terminal and clone the GitHub repository in their own directory.
